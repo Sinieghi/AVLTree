@@ -1,0 +1,14 @@
+e:\DOC\Data_structure-algorithms\code_snippet\AVLTrees\bin\Debug\net8.0\AVLTrees.exe
+e:\DOC\Data_structure-algorithms\code_snippet\AVLTrees\bin\Debug\net8.0\AVLTrees.deps.json
+e:\DOC\Data_structure-algorithms\code_snippet\AVLTrees\bin\Debug\net8.0\AVLTrees.runtimeconfig.json
+e:\DOC\Data_structure-algorithms\code_snippet\AVLTrees\bin\Debug\net8.0\AVLTrees.dll
+e:\DOC\Data_structure-algorithms\code_snippet\AVLTrees\bin\Debug\net8.0\AVLTrees.pdb
+e:\DOC\Data_structure-algorithms\code_snippet\AVLTrees\obj\Debug\net8.0\AVLTrees.GeneratedMSBuildEditorConfig.editorconfig
+e:\DOC\Data_structure-algorithms\code_snippet\AVLTrees\obj\Debug\net8.0\AVLTrees.AssemblyInfoInputs.cache
+e:\DOC\Data_structure-algorithms\code_snippet\AVLTrees\obj\Debug\net8.0\AVLTrees.AssemblyInfo.cs
+e:\DOC\Data_structure-algorithms\code_snippet\AVLTrees\obj\Debug\net8.0\AVLTrees.csproj.CoreCompileInputs.cache
+e:\DOC\Data_structure-algorithms\code_snippet\AVLTrees\obj\Debug\net8.0\AVLTrees.dll
+e:\DOC\Data_structure-algorithms\code_snippet\AVLTrees\obj\Debug\net8.0\refint\AVLTrees.dll
+e:\DOC\Data_structure-algorithms\code_snippet\AVLTrees\obj\Debug\net8.0\AVLTrees.pdb
+e:\DOC\Data_structure-algorithms\code_snippet\AVLTrees\obj\Debug\net8.0\AVLTrees.genruntimeconfig.cache
+e:\DOC\Data_structure-algorithms\code_snippet\AVLTrees\obj\Debug\net8.0\ref\AVLTrees.dll
